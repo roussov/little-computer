@@ -2,7 +2,8 @@
 20 REM JEU DU PENDU ** 
 30 REM Programme écrit en BASIC * 
 40 REM Par [votre nom] 
-50 REM * 60 REM Initialisation du jeu 
+50 REM * 
+60 REM Initialisation du jeu 
 70 DIM MOT$(10) 
 80 DIM MOTVISIBLE$(10) 
 90 DIM LETTRESDEJAJOUEES$(27) 
